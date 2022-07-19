@@ -1,0 +1,2 @@
+# mangaroti.io
+curriculo Dev
